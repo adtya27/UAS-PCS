@@ -8,4 +8,4 @@ POS Pizza Untuk Ujian Akhir Semester (UAS) Pemrograman Client Server
 - Muhammad Hafiz Al Fikri (19.12.1300)
 - Tito Saesar Nurrahman (19.12.1253)
 
-<!-- [Link Video Demo](https://www.youtube.com/watch?v=C5i43xR3jjg) -->
+[Link Video Demo](https://drive.google.com/file/d/1x7vJ_zPVQcUyageBwKz1SSBb4Mwb_p4M/view?usp=sharing)
